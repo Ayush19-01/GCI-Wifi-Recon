@@ -5,6 +5,6 @@ The program is designed to show the number of devices that are  connected on you
 ## Output
 
 <p align="center">
-  <img src=https://github.com/Ayush19-01/GCI-Wifi-Recon/blob/master/Screenshot from 2020-01-14 16-53-44.png>
+  <img src=https://github.com/Ayush19-01/GCI-Wifi-Recon/blob/master/Screenshot%20from%202020-01-14%2016-53-44.png>
 <\p>
 
